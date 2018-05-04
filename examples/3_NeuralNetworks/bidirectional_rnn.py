@@ -1,7 +1,7 @@
 """ Bi-directional Recurrent Neural Network.
 
-A Bi-directional Recurrent Neural Network (LSTM) implementation example using 
-TensorFlow library. This example is using the MNIST database of handwritten 
+A Bi-directional Recurrent Neural Network (LSTM) implementation example using
+TensorFlow library. This example is using the MNIST database of handwritten
 digits (http://yann.lecun.com/exdb/mnist/)
 
 Links:
